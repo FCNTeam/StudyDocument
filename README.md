@@ -6,9 +6,9 @@
 
 本文档的初衷是为大家提供一个简便的教程文档
 
-本站连接: 待补充
+本站连接: https://fcnteam.github.io/StudyDocument
 
-本站欢迎PR,PR规则: [传送门](pr.md)
+本站欢迎PR,PR规则: [传送门](other/pr.md)
 
 如本站有侵犯您的版权,可以提一个**issue**,后续会有管理员进行跟进
 
