@@ -24,6 +24,7 @@ Pr的名字应该是这样:
 关于写文档的相关事项:
 
 - Markdown支持Emoji,LeTex
+- 本站支持图表 [用法](https://markbattistella.github.io/docsify-charty-docs/#/)
 - 请保证Markdown语法正确(会有CI Bot检查)
 - 请保证用语的严谨
 - 添加了新的文档请修改_siderbar.md
