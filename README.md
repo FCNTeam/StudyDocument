@@ -1,5 +1,7 @@
 # StudyDocument
 
+[![Join the chat at https://gitter.im/FCNTeam-talk/StudyDocument](https://badges.gitter.im/FCNTeam-talk/StudyDocument.svg)](https://gitter.im/FCNTeam-talk/StudyDocument?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > 学习乐,不会来看看
 
 !> 本站所提供的所有文档**完全免费**,如果有人售卖,请火速退款 举报 差评一条龙
